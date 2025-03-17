@@ -6,3 +6,4 @@ A collection of things I've learned day to day.
 
 | Date | Entry | Files |
 | ---- | ----- | ----- |
+| 2025-03-16 | Hello, world :) | [README.md](til/files/2025-03-16_README.md) |
