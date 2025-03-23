@@ -32,4 +32,4 @@ entries:
       message: please work
       message_body: ""
       is_committed: true
-      notion_synced: false
+      notion_synced: true
