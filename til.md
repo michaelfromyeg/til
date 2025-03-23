@@ -10,3 +10,10 @@ First entry amended...?
 Files:
 - [test_file.txt](files/2025-03-23_test_file.txt)
 - [test_file2.txt](files/2025-03-23_test_file2.txt)
+
+## 2025-03-23
+
+Second entry with YAML!
+
+Files:
+- [test_file3.txt](files/2025-03-23_test_file3.txt)
