@@ -2,7 +2,7 @@
 
 A collection of things I've learned day to day.
 
-## Entries## Entries
+## Entries
 
 | Date | Entry | Files |
 | ---- | ----- | ----- |
