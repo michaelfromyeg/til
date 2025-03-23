@@ -1,0 +1,7 @@
+entries:
+    - date: 2025-03-23T14:51:01.965403792-07:00
+      message: First entry with YAML storage
+      files:
+        - test_file.txt
+      is_committed: true
+      notion_synced: false
