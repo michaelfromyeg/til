@@ -33,3 +33,8 @@ entries:
       message_body: ""
       is_committed: true
       notion_synced: true
+    - date: 2025-03-23T16:18:54.624031468-07:00
+      message: "1"
+      message_body: ""
+      is_committed: true
+      notion_synced: false
