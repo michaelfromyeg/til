@@ -37,9 +37,9 @@ entries:
       message: "1"
       message_body: ""
       is_committed: true
-      notion_synced: false
+      notion_synced: true
     - date: 2025-03-23T16:22:12.989861813-07:00
       message: lfg
       message_body: ""
       is_committed: true
-      notion_synced: false
+      notion_synced: true
