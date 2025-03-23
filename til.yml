@@ -6,3 +6,9 @@ entries:
         - test_file2.txt
       is_committed: true
       notion_synced: false
+    - date: 2025-03-23T14:51:37.903540241-07:00
+      message: Second entry with YAML storage
+      files:
+        - test_file3.txt
+      is_committed: true
+      notion_synced: false
