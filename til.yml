@@ -27,4 +27,9 @@ entries:
       files:
         - test_file.txt
       is_committed: true
+      notion_synced: true
+    - date: 2025-03-23T16:14:25.669335012-07:00
+      message: please work
+      message_body: ""
+      is_committed: true
       notion_synced: false
