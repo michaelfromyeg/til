@@ -6,6 +6,7 @@ A collection of things I've learned day to day.
 
 | Date | Entry | Files |
 | ---- | ----- | ----- |
+| 2025-03-23 | lfg |  |
 | 2025-03-23 | 1 |  |
 | 2025-03-23 | please work |  |
 | 2025-03-23 | hello world THIS ONE | [test_file.txt](til/files/2025-03-23_test_file.txt) |
