@@ -6,18 +6,18 @@ entries:
         - test_file.txt
         - test_file2.txt
       is_committed: true
-      notion_synced: false
+      notion_synced: true
     - date: 2025-03-23T14:51:37.903540241-07:00
       message: Second entry with YAML storage
       message_body: ""
       files:
         - test_file3.txt
       is_committed: true
-      notion_synced: false
+      notion_synced: true
     - date: 2025-03-23T15:24:32.861632497-07:00
       message: hello world
       message_body: ""
       files:
         - test_file3.txt
       is_committed: true
-      notion_synced: false
+      notion_synced: true
