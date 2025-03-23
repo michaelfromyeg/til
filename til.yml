@@ -21,3 +21,10 @@ entries:
         - test_file3.txt
       is_committed: true
       notion_synced: true
+    - date: 2025-03-23T16:10:58.924486101-07:00
+      message: hello world THIS ONE
+      message_body: ""
+      files:
+        - test_file.txt
+      is_committed: true
+      notion_synced: false
