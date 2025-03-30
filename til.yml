@@ -65,3 +65,10 @@ entries:
       message_body: ""
       is_committed: true
       notion_synced: false
+    - date: 2025-03-30T14:35:37.301812934-07:00
+      message: Today, Jack showed me how n8n works
+      message_body: ""
+      files:
+        - test_file.txt
+      is_committed: true
+      notion_synced: false
