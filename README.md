@@ -6,6 +6,7 @@ A collection of things I've learned day to day.
 
 | Date | Entry | Files |
 | ---- | ----- | ----- |
+| 2025-03-30 | hello world! | [test_file2.txt](til/files/2025-03-30_test_file2.txt), [test_file3.txt](til/files/2025-03-30_test_file3.txt) |
 | 2025-03-30 | Test commit with Git integration | [test.txt](til/files/2025-03-30_test.txt) |
 | 2025-03-30 | 1 |  |
 | 2025-03-30 | 1 |  |

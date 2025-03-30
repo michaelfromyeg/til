@@ -72,3 +72,11 @@ entries:
         - test_file.txt
       is_committed: true
       notion_synced: true
+    - date: 2025-03-30T15:47:07.817556443-07:00
+      message: hello world!
+      message_body: ""
+      files:
+        - test_file2.txt
+        - test_file3.txt
+      is_committed: true
+      notion_synced: false
