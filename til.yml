@@ -54,4 +54,4 @@ entries:
       message: "1"
       message_body: ""
       is_committed: true
-      notion_synced: false
+      notion_synced: true
