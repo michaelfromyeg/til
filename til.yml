@@ -50,3 +50,8 @@ entries:
         - test_file.txt
       is_committed: true
       notion_synced: true
+    - date: 2025-03-30T14:20:57.514313005-07:00
+      message: "1"
+      message_body: ""
+      is_committed: true
+      notion_synced: false
