@@ -84,5 +84,5 @@ entries:
       message: testing with commit ids
       message_body: ""
       is_committed: true
-      notion_synced: false
+      notion_synced: true
       commit_id: 43fe69d7
