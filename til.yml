@@ -79,4 +79,4 @@ entries:
         - test_file2.txt
         - test_file3.txt
       is_committed: true
-      notion_synced: false
+      notion_synced: true
