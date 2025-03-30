@@ -49,4 +49,4 @@ entries:
       files:
         - test_file.txt
       is_committed: true
-      notion_synced: false
+      notion_synced: true
