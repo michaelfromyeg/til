@@ -80,3 +80,9 @@ entries:
         - test_file3.txt
       is_committed: true
       notion_synced: true
+    - date: 2025-03-30T16:35:49.626740637-07:00
+      message: testing with commit ids
+      message_body: ""
+      is_committed: true
+      notion_synced: false
+      commit_id: 43fe69d7
